@@ -16,4 +16,3 @@ This project replicates the Spotify UI and includes interactive features like pl
 - **CSS3** – Styling and layout
 - **JavaScript (Vanilla)** – Player controls and interactivity
 
-## 📂 Project Structure
